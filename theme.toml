@@ -1,0 +1,15 @@
+name = "adidoks"
+description = "AdiDoks is a Zola theme helping you build modern documentation."
+license = "MIT"
+homepage = "https://github.com/semanticdata/zola-doks/"
+min_version = "0.18.0"
+demo = "https://semanticdata.github.io/zola-doks/"
+
+[author]
+name = "Miguel Pimentel"
+homepage = "https://miguelpimentel.do"
+
+[original]
+name = "Aaran Xu"
+homepage = "https://github.com/aaranxu"
+repo = "https://github.com/aaranxu/adidoks"
