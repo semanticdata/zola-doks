@@ -1,6 +1,6 @@
 {
-  "name": "Zola Theme AdiDoks",
-  "short_name": "AdiDoks",
+  "name": "Zola-Doks",
+  "short_name": "Zola-Doks",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",

@@ -1,5 +1,5 @@
-name = "adidoks"
-description = "AdiDoks is a Zola theme helping you build modern documentation."
+name = "Zola-Doks"
+description = "Zola-Doks is an easy way to create documentation for your project."
 license = "MIT"
 homepage = "https://github.com/semanticdata/zola-doks/"
 min_version = "0.18.0"

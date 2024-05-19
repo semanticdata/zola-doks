@@ -29,7 +29,7 @@ description=description, is_home=true) }} {% endblock seo %} {% block content %}
           <p class="meta">
             {{ section.extra.repo_license | default(value="MIT")}}
             <a
-              href="{{ section.extra.repo_url | default(value='https://github.com/aaranxu/adidoks') | safe }}"
+              href="{{ section.extra.repo_url | default(value='https://github.com/semanticdata/zola-doks') | safe }}"
               >{{ section.extra.repo_version | default(value="0.1.0") }}</a
             >
           </p>
