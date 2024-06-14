@@ -1,6 +1,6 @@
 base_url = "https://semanticdata.github.io/zola-doks/"
-title = "Zola-Doks"
-description = "Zola-Doks, a Zola theme to build modern documentation websites."
+title = "Zola Doks"
+description = "Zola Doks, a Zola theme to build modern documentation websites."
 default_language = "en"
 compile_sass = true
 generate_feed = true
@@ -8,7 +8,6 @@ minify_html = false
 build_search_index = true
 taxonomies = [
   { name = "authors" }, # Basic definition: no feed or pagination
-
 ]
 
 [search]
@@ -73,7 +72,7 @@ post = "v0.1.0"
 weight = 20
 
 [extra.footer]
-info = 'Powered by <a href="https://www.netlify.com/">Netlify</a>, <a href="https://www.getzola.org/">Zola</a>, and <a href="https://github.com/semanticdata/zola-doks">Zola-Doks</a>.'
+info = 'Powered by <a href="https://www.netlify.com/">Netlify</a>, <a href="https://www.getzola.org/">Zola</a>, and <a href="https://github.com/semanticdata/zola-doks">Zola Doks</a>.'
 
 [[extra.footer.nav]]
 name = "Privacy"
