@@ -1,8 +1,6 @@
 +++
 title = "Authors"
-description = "The authurs of the blog articles."
-date = 2021-04-01
-# updated = 2021-04-01
+description = "The authors of the blog articles."
 draft = false
 
 # If add a new author page in this section, please add a new item,
