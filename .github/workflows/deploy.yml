@@ -24,8 +24,8 @@ jobs:
         uses: taiki-e/install-action@zola
       - name: Build site
         run: zola build
-        # env:
-        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
